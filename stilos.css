@@ -1,0 +1,36 @@
+body {
+    background-color: #eee;
+    text-align: center;
+    
+}
+
+.navbar {
+    background-color: rgb(118, 112, 126);
+}
+
+h3 {
+   
+
+}
+img {
+    background-color:#ddd;
+    border-radius:8px;
+}
+ul {
+
+}
+
+footer {
+    font-style:italic;
+    text-align:left;
+    font-size:small
+    
+}
+
+section {
+    margin-top: 7%;
+}
+
+#resultado {
+    background-color: rgb(138, 138, 182);
+}
